@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Bhumika Khanna 👋
 
-<!--
-**BhumikaKhanna/BhumikaKhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Learning C, Python & Web Development  
+🚀 Building projects and improving my programming skills
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Computer Science & Engineering
+- 🌱 Currently learning programming and development
+- 💡 Interested in Software Development, AI/ML and Web Development
+- 📚 Building my skills through practical projects
+- 🎯 Goal: Become a skilled software developer
+
+## 🛠️ Skills
+
+- C
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+- VS Code
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python
+- Web Development
+- Git & GitHub
+- Problem Solving
+
+## 🚀 Projects
+
+More projects coming soon...
+
+## 📫 Connect With Me
+
+- GitHub: [Bhumika Khanna](https://github.com/BhumikaKhanna)
+
+---
+
+⭐ Thanks for visiting my profile!
